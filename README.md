@@ -1,2 +1,3 @@
-# zadanie-10-1
-https://sandra-polujanska.github.io/zadanie-10-1/
+Document Object Model exercise.
+
+Used: HTML, JS, jQuery
